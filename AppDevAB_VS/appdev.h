@@ -5,7 +5,7 @@
 #include <curl/curl.h>
 
 #define N 20
-
+//this is added by Nguyen Trung from VSM
 typedef struct {
 	int max;
 	int min;
